@@ -22,7 +22,7 @@ Ejercicio Univalle Posgrado
 # Instalación
 
 1. Clonar el proyecto:
-   git clone https://turepo.com/mi-comida-favorita.git
+   git clone https://github.com/cristhianunivalle/mi-comida-favorita
    cd mi-comida-favorita
 2. instalar dependecioas
     npm install
